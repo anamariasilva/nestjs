@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "rest-api",
   "version": "0.0.1",
   "description": "",
@@ -68,4 +69,24 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   }
+=======
+  "name": "nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add --all && git commit -m\"Deploy\" && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamariasilva/emerj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamariasilva/emerj/issues"
+  },
+  "homepage": "https://github.com/anamariasilva/emerj#readme"
+>>>>>>> 5452d939b555c3079f952f42434e23a10e4a0110
 }
