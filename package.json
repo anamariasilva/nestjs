@@ -1,0 +1,20 @@
+{
+  "name": "nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add --all && git commit -m\"$desc\" && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamariasilva/emerj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamariasilva/emerj/issues"
+  },
+  "homepage": "https://github.com/anamariasilva/emerj#readme"
+}
